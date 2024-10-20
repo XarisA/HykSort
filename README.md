@@ -2,7 +2,7 @@
 
 HykSort Algorithm Implementation with ParallelSelect algorithm for finding splitters and AlltoAll_kway for all to all communication between processors, having as a result reduced complexity to O(N log p / log k).
 
-A big part of the logic in the the code was found in this project [2] and was rewritten in c++.
+A big part of the logic in this code was found in this project [2] and was rewritten in c++.
 I added some helper functions and distinguished the HykSort algorithm from [2] so that it can run independenly.
 
 **References**
